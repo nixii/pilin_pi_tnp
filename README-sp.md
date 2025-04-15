@@ -9,7 +9,7 @@
 󱤡󱥞󱥷󱥡󱤉󱥎󱤴󱤡󱤰󱥁󱤧󱥔󱤽󱥳󱤀󱦜󱤪󱤼󱥍󱤰󱥁󱤧󱤓󱤉󱥎󱤼󱤴󱦜
 
 ## 󱤓
-* 󱥬󱥳󱥍󱤌󱤄「󱥠󱦐󱤏󱦜󱤧󱦜󱦑」󱦝 [toki_wan_pi_ijo_ale.md]
+* 󱥬󱥳󱥍󱤌󱤄「󱥠󱦐󱤏󱦜󱤧󱦜󱦑」󱦝 [toki_wan_pi_ijo_ale.md](toki_wan_pi_ijo_ale.md)󱦜
 
 ## 󱥐
 󱥐󱤡󱥞󱥹󱤧󱤓󱤉󱥎󱤡󱥄󱥬󱥩󱤴󱤀󱦜󱥂󱤴󱥍󱤎󱦐󱥝󱦜󱤜󱦜󱦑「Discord」󱤧󱥂 @nixii.dev󱦜󱥄󱤮󱥔󱤀󱦜
