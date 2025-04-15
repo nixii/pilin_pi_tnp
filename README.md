@@ -1,5 +1,5 @@
-**If you can't speak Toki Pona, go here:** [README-en.md](README-en.md)
-*󱥞󱤘󱤮󱤉󱥁󱤡󱥄󱤮󱤉󱥁󱦝* [README-sp.md](README-sp.md)<br>
+**If you can't speak Toki Pona, go here:** [README-en.md](README-en.md)<br>
+*󱥞󱤘󱤮󱤉󱥁󱤡󱥄󱤮󱤉󱥁󱦝* [README-sp.md](README-sp.md)
 
 # o kama pona tawa pilin mi pi toki nanpa pona!
 
